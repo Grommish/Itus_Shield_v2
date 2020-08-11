@@ -23,7 +23,7 @@ on:
 #    types: started
 
 env:
-  REPO_URL: https://github.com/grommish/openwrt
+  REPO_URL: https://github.com/Itus-Shield/openwrt
   REPO_BRANCH: kernel-5.4
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
